@@ -1,1 +1,1 @@
-# SpringMVCModule
+Cấu hình SpringMVC file mẫu
